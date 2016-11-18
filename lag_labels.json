@@ -1,0 +1,1081 @@
+[
+    {
+        "annotations": [
+            {}
+        ],
+        "class": "image",
+        "filename": "image2.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 537.0,
+                "y": 214.0
+            },
+            {
+                "class": "point",
+                "x": 948.0,
+                "y": 323.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_00091.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 793.0,
+                "y": 430.0
+            },
+            {
+                "class": "point",
+                "x": 790.0,
+                "y": 326.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_00176.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 878.0,
+                "y": 453.0
+            },
+            {
+                "class": "point",
+                "x": 934.0,
+                "y": 341.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_00657.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 616.0,
+                "y": 186.0
+            },
+            {
+                "class": "point",
+                "x": 958.0,
+                "y": 406.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_00784.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 790.0,
+                "y": 430.0
+            },
+            {
+                "class": "point",
+                "x": 785.0,
+                "y": 324.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_01037.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 531.0,
+                "y": 213.0
+            },
+            {
+                "class": "point",
+                "x": 948.0,
+                "y": 321.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_01221.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 705.0,
+                "y": 319.0
+            },
+            {
+                "class": "point",
+                "x": 1047.0,
+                "y": 276.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_01457.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 617.0,
+                "y": 181.0
+            },
+            {
+                "class": "point",
+                "x": 956.0,
+                "y": 411.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_01512.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 789.0,
+                "y": 430.0
+            },
+            {
+                "class": "point",
+                "x": 785.0,
+                "y": 326.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_01527.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 708.0,
+                "y": 492.0
+            },
+            {
+                "class": "point",
+                "x": 799.0,
+                "y": 361.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_01644.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 532.0,
+                "y": 216.0
+            },
+            {
+                "class": "point",
+                "x": 947.0,
+                "y": 321.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_01766.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 710.0,
+                "y": 489.0
+            },
+            {
+                "class": "point",
+                "x": 785.0,
+                "y": 367.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_01952.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 710.0,
+                "y": 324.0
+            },
+            {
+                "class": "point",
+                "x": 1057.0,
+                "y": 265.0
+            }
+        ],
+        "class": "image",
+        "filename": "img_02042.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 431.9648164422654,
+                "y": 453.7304854878059
+            },
+            {
+                "class": "point",
+                "x": 609.4387332751342,
+                "y": 460.4276144248953
+            }
+        ],
+        "class": "image",
+        "filename": "img_02089.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 885.6953019300713,
+                "y": 452.05620325353357
+            },
+            {
+                "class": "point",
+                "x": 932.575204489697,
+                "y": 343.22785802583104
+            }
+        ],
+        "class": "image",
+        "filename": "img_02186.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 781.8898034051858,
+                "y": 428.6162519737207
+            },
+            {
+                "class": "point",
+                "x": 785.2383678737305,
+                "y": 323.13647121456285
+            }
+        ],
+        "class": "image",
+        "filename": "img_02236.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 790.2612145765476,
+                "y": 426.9419697394483
+            },
+            {
+                "class": "point",
+                "x": 780.2155211709135,
+                "y": 323.13647121456285
+            }
+        ],
+        "class": "image",
+        "filename": "img_02349.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 701.5242561601132,
+                "y": 490.56469464179753
+            },
+            {
+                "class": "point",
+                "x": 801.9811902164539,
+                "y": 363.3192448370992
+            }
+        ],
+        "class": "image",
+        "filename": "img_02415.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 450.3819210192612,
+                "y": 455.40476772207825
+            },
+            {
+                "class": "point",
+                "x": 624.5072733835852,
+                "y": 430.29053420799306
+            }
+        ],
+        "class": "image",
+        "filename": "img_02533.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 666.3643292403939,
+                "y": 428.6162519737207
+            },
+            {
+                "class": "point",
+                "x": 974.4322603465056,
+                "y": 221.00525492394974
+            }
+        ],
+        "class": "image",
+        "filename": "img_02608.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 522.3760570929721,
+                "y": 236.07379503240085
+            },
+            {
+                "class": "point",
+                "x": 887.3695841643437,
+                "y": 271.2337219521201
+            }
+        ],
+        "class": "image",
+        "filename": "img_02694.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 786.9126501080028,
+                "y": 426.9419697394483
+            },
+            {
+                "class": "point",
+                "x": 791.9354968108199,
+                "y": 329.83360015165226
+            }
+        ],
+        "class": "image",
+        "filename": "img_02728.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 534.0960327328785,
+                "y": 219.3309726896774
+            },
+            {
+                "class": "point",
+                "x": 940.9466156610587,
+                "y": 333.18216462019694
+            }
+        ],
+        "class": "image",
+        "filename": "img_02758.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 614.4615799779511,
+                "y": 185.84532800423045
+            },
+            {
+                "class": "point",
+                "x": 956.0151557695099,
+                "y": 415.2219940995419
+            }
+        ],
+        "class": "image",
+        "filename": "img_03052.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 890.7181486328883,
+                "y": 457.07904995635056
+            },
+            {
+                "class": "point",
+                "x": 907.4609709756118,
+                "y": 354.94783366573745
+            }
+        ],
+        "class": "image",
+        "filename": "img_03232.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 529.0731860300615,
+                "y": 217.65669045540503
+            },
+            {
+                "class": "point",
+                "x": 935.9237689582417,
+                "y": 329.83360015165226
+            }
+        ],
+        "class": "image",
+        "filename": "img_03611.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 666.3643292403939,
+                "y": 440.3362276136271
+            },
+            {
+                "class": "point",
+                "x": 972.7579781122333,
+                "y": 217.65669045540503
+            }
+        ],
+        "class": "image",
+        "filename": "img_03771.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 793.6097790450922,
+                "y": 425.267687505176
+            },
+            {
+                "class": "point",
+                "x": 788.5869323422752,
+                "y": 323.13647121456285
+            }
+        ],
+        "class": "image",
+        "filename": "img_03774.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 703.1985383943855,
+                "y": 493.9132591103422
+            },
+            {
+                "class": "point",
+                "x": 803.6554724507263,
+                "y": 363.3192448370992
+            }
+        ],
+        "class": "image",
+        "filename": "img_03940.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 532.4217504986062,
+                "y": 410.19914739672487
+            },
+            {
+                "class": "point",
+                "x": 729.9870541427431,
+                "y": 405.1763006939078
+            }
+        ],
+        "class": "image",
+        "filename": "img_04199.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 626.1815556178576,
+                "y": 184.1710457699581
+            },
+            {
+                "class": "point",
+                "x": 957.6894380037821,
+                "y": 416.8962763338143
+            }
+        ],
+        "class": "image",
+        "filename": "img_04279.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 537.4445972014232,
+                "y": 219.3309726896774
+            },
+            {
+                "class": "point",
+                "x": 949.3180268324204,
+                "y": 323.13647121456285
+            }
+        ],
+        "class": "image",
+        "filename": "img_04297.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 703.1985383943855,
+                "y": 495.5875413446146
+            },
+            {
+                "class": "point",
+                "x": 807.004036919271,
+                "y": 363.3192448370992
+            }
+        ],
+        "class": "image",
+        "filename": "img_04352.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 540.793161669968,
+                "y": 219.3309726896774
+            },
+            {
+                "class": "point",
+                "x": 940.9466156610587,
+                "y": 326.4850356831076
+            }
+        ],
+        "class": "image",
+        "filename": "img_04414.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 781.8898034051858,
+                "y": 390.10776058545673
+            },
+            {
+                "class": "point",
+                "x": 848.8610927760797,
+                "y": 308.06793110611176
+            }
+        ],
+        "class": "image",
+        "filename": "img_04435.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 798.6326257479093,
+                "y": 431.9648164422654
+            },
+            {
+                "class": "point",
+                "x": 800.3069079821817,
+                "y": 323.13647121456285
+            }
+        ],
+        "class": "image",
+        "filename": "img_04481.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 537.4445972014232,
+                "y": 214.30812598686035
+            },
+            {
+                "class": "point",
+                "x": 932.575204489697,
+                "y": 326.4850356831076
+            }
+        ],
+        "class": "image",
+        "filename": "img_04678.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 786.9126501080028,
+                "y": 425.267687505176
+            },
+            {
+                "class": "point",
+                "x": 788.5869323422752,
+                "y": 323.13647121456285
+            }
+        ],
+        "class": "image",
+        "filename": "img_04711.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 711.5699495657473,
+                "y": 326.4850356831076
+            },
+            {
+                "class": "point",
+                "x": 1054.7978075915782,
+                "y": 262.8623107807584
+            }
+        ],
+        "class": "image",
+        "filename": "img_04734.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 542.4674439042402,
+                "y": 222.67953715822208
+            },
+            {
+                "class": "point",
+                "x": 937.598051192514,
+                "y": 336.5307290887416
+            }
+        ],
+        "class": "image",
+        "filename": "img_04741.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 714.9185140342919,
+                "y": 323.13647121456285
+            },
+            {
+                "class": "point",
+                "x": 1053.1235253573059,
+                "y": 271.2337219521201
+            }
+        ],
+        "class": "image",
+        "filename": "img_04953.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 704.8728206286579,
+                "y": 488.89041240752516
+            },
+            {
+                "class": "point",
+                "x": 808.6783191535434,
+                "y": 364.99352707137155
+            }
+        ],
+        "class": "image",
+        "filename": "img_04958.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 652.9700713662152,
+                "y": 418.5705585680866
+            },
+            {
+                "class": "point",
+                "x": 979.4551070493227,
+                "y": 221.00525492394974
+            }
+        ],
+        "class": "image",
+        "filename": "img_05005.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 624.5072733835852,
+                "y": 194.21673917559218
+            },
+            {
+                "class": "point",
+                "x": 950.9923090666928,
+                "y": 398.47917175681846
+            }
+        ],
+        "class": "image",
+        "filename": "img_05081.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 880.6724552272542,
+                "y": 445.35907431644415
+            },
+            {
+                "class": "point",
+                "x": 924.2037933183352,
+                "y": 338.205011323014
+            }
+        ],
+        "class": "image",
+        "filename": "img_05123.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 711.5699495657473,
+                "y": 323.13647121456285
+            },
+            {
+                "class": "point",
+                "x": 1053.1235253573059,
+                "y": 267.8851574835754
+            }
+        ],
+        "class": "image",
+        "filename": "img_05386.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 704.8728206286579,
+                "y": 490.56469464179753
+            },
+            {
+                "class": "point",
+                "x": 807.004036919271,
+                "y": 358.29639813428213
+            }
+        ],
+        "class": "image",
+        "filename": "img_05449.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 880.6724552272542,
+                "y": 450.3819210192612
+            },
+            {
+                "class": "point",
+                "x": 914.1580999127011,
+                "y": 349.9249869629204
+            }
+        ],
+        "class": "image",
+        "filename": "img_05939.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 534.0960327328785,
+                "y": 408.52486516245256
+            },
+            {
+                "class": "point",
+                "x": 755.1012876568283,
+                "y": 396.8048895225461
+            }
+        ],
+        "class": "image",
+        "filename": "img_05945.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 534.0960327328785,
+                "y": 217.65669045540503
+            },
+            {
+                "class": "point",
+                "x": 940.9466156610587,
+                "y": 326.4850356831076
+            }
+        ],
+        "class": "image",
+        "filename": "img_05966.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 791.9354968108199,
+                "y": 426.9419697394483
+            },
+            {
+                "class": "point",
+                "x": 796.9583435136369,
+                "y": 324.8107534488352
+            }
+        ],
+        "class": "image",
+        "filename": "img_06129.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 616.1358622122235,
+                "y": 187.5196102385028
+            },
+            {
+                "class": "point",
+                "x": 957.6894380037821,
+                "y": 405.1763006939078
+            }
+        ],
+        "class": "image",
+        "filename": "img_06223.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 621.1587089150405,
+                "y": 182.49676353568577
+            },
+            {
+                "class": "point",
+                "x": 966.0608491751439,
+                "y": 406.8505829281802
+            }
+        ],
+        "class": "image",
+        "filename": "img_06224.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 895.7409953357054,
+                "y": 447.0333565507165
+            },
+            {
+                "class": "point",
+                "x": 910.8095354441565,
+                "y": 348.2507047286481
+            }
+        ],
+        "class": "image",
+        "filename": "img_06257.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 539.1188794356956,
+                "y": 214.30812598686035
+            },
+            {
+                "class": "point",
+                "x": 935.9237689582417,
+                "y": 336.5307290887416
+            }
+        ],
+        "class": "image",
+        "filename": "img_06536.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 666.3643292403939,
+                "y": 430.29053420799306
+            },
+            {
+                "class": "point",
+                "x": 974.4322603465056,
+                "y": 222.67953715822208
+            }
+        ],
+        "class": "image",
+        "filename": "img_06713.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 701.5242561601132,
+                "y": 490.56469464179753
+            },
+            {
+                "class": "point",
+                "x": 810.3526013878156,
+                "y": 359.9706803685545
+            }
+        ],
+        "class": "image",
+        "filename": "img_06876.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 534.0960327328785,
+                "y": 214.30812598686035
+            },
+            {
+                "class": "point",
+                "x": 947.6437445981481,
+                "y": 326.4850356831076
+            }
+        ],
+        "class": "image",
+        "filename": "img_07010.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 664.6900470061215,
+                "y": 442.01050984789947
+            },
+            {
+                "class": "point",
+                "x": 969.4094136436886,
+                "y": 221.00525492394974
+            }
+        ],
+        "class": "image",
+        "filename": "img_07087.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 626.1815556178576,
+                "y": 192.54245694131984
+            },
+            {
+                "class": "point",
+                "x": 956.0151557695099,
+                "y": 406.8505829281802
+            }
+        ],
+        "class": "image",
+        "filename": "img_07142.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 616.1358622122235,
+                "y": 187.5196102385028
+            },
+            {
+                "class": "point",
+                "x": 949.3180268324204,
+                "y": 408.52486516245256
+            }
+        ],
+        "class": "image",
+        "filename": "img_07176.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 612.7872977436788,
+                "y": 187.5196102385028
+            },
+            {
+                "class": "point",
+                "x": 959.3637202380545,
+                "y": 406.8505829281802
+            }
+        ],
+        "class": "image",
+        "filename": "img_07269.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 699.8499739258408,
+                "y": 495.5875413446146
+            },
+            {
+                "class": "point",
+                "x": 808.6783191535434,
+                "y": 361.6449626028268
+            }
+        ],
+        "class": "image",
+        "filename": "img_07334.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 534.0960327328785,
+                "y": 215.9824082211327
+            },
+            {
+                "class": "point",
+                "x": 944.2951801296034,
+                "y": 336.5307290887416
+            }
+        ],
+        "class": "image",
+        "filename": "img_07774.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 1041.4035497173995,
+                "y": 426.9419697394483
+            },
+            {
+                "class": "point",
+                "x": 942.620897895331,
+                "y": 334.8564468544693
+            }
+        ],
+        "class": "image",
+        "filename": "img_07817.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 696.5014094572962,
+                "y": 492.23897687606984
+            },
+            {
+                "class": "point",
+                "x": 813.7011658563604,
+                "y": 361.6449626028268
+            }
+        ],
+        "class": "image",
+        "filename": "img_07830.jpg"
+    },
+    {
+        "annotations": [
+            {
+                "class": "point",
+                "x": 614.4615799779511,
+                "y": 184.1710457699581
+            },
+            {
+                "class": "point",
+                "x": 952.6665913009651,
+                "y": 411.87342963099724
+            }
+        ],
+        "class": "image",
+        "filename": "img_07919.jpg"
+    }
+]
