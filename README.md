@@ -1,6 +1,6 @@
 # kaggleNatureConservancy
 
-- the labels_* files contain annotations for all corresponding image files 
+- the *_labels.json files contain annotations for all corresponding image files 
 - some files contain more than one fish - only the most dominant fish was annotated
 - the first point is always for the head, the second point is for the tail
 - the annotations were made with the idea of cropping the fish prior to learning its type - 
